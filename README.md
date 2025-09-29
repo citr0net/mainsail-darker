@@ -12,3 +12,4 @@ Based on:
 * Run `git clone https://github.com/citr0net/mainsail-darker/`
 * Restart klipper screen
 * Choose the theme!
+![Screenshot.png](https://raw.githubusercontent.com/citr0net/mainsail-darker/refs/heads/main/screenshot.png)
